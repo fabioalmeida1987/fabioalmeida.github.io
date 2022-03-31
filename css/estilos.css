@@ -1,0 +1,65 @@
+body {
+  background: url("/imagens/forest-g2129d9ded_1920.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 90% 1%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  color: rgb(132, 163, 79);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 1px 1px 5px #000000;
+}
+
+hr {
+  width: 50%;
+  height: 15px;
+  background: orange;
+}
+
+.linha {
+  background: red;
+}
+
+p {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+}
+
+#foto1 {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.videozinho {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: purple;
+}
+
+.textorodape {
+  text-align: center;
+}

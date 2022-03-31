@@ -1,0 +1,29 @@
+body {
+  background: url("/imagens/annie-spratt-0ZPSX_mQ3xI-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+H1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 60px;
+  text-align: center;
+  color: #c03a2b;
+}
+
+hr {
+  width: 60%;
+  height: 15px;
+  background: #ecdc9c;
+  border: none;
+}
+
+.box {
+  width: 60%;
+  background: #ecdc9c88;
+  margin: 40px auto 0 auto;
+  padding: 15px;
+  border-radius: 20px 20px 0px 0px;
+  border: 2px solid #222222;
+}
